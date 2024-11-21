@@ -1,1 +1,1 @@
-module.exports = 'NOMBRE DEL COMPONENTE FORMATIVO'
+module.exports = 'Mantenimiento correctivo de equipos de cómputo: técnicas y procedimientos'
